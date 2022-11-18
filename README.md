@@ -1,0 +1,1 @@
+See my post [React Native ImagePicker : Pick Image from Camera and Gallery in Android](https://dev.to/alinahassan/react-native-imagepicker-pick-image-from-camera-and-gallery-in-android-ddf) for using this file 
